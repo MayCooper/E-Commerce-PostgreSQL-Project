@@ -10,10 +10,7 @@ Designing, implementing, and maintaining efficient and scalable database applica
 
 - Using design patterns for resiliency: I'll be incorporating design patterns that improve the resiliency of my database applications, such as circuit breaker, retry, and fallback patterns. These patterns will help me handle failures and keep my applications up and running smoothly, even in challenging situations.
 
-
 ![Paritioning](https://github.com/MayCooper/E-Commerce-PostgreSQL-Project/blob/main/paritioning%202.png)
-
-![Paritioning_2](https://github.com/MayCooper/E-Commerce-PostgreSQL-Project/blob/main/partitioning.gif)
 
 ### Topics covered will include:
 
@@ -21,5 +18,7 @@ Designing, implementing, and maintaining efficient and scalable database applica
 - Dataset partitioning
 - Handling database errors
 - Using design patterns for resiliency
+
+![Paritioning_2](https://github.com/MayCooper/E-Commerce-PostgreSQL-Project/blob/main/partitioning.gif)
 
 Join me to learn best practices for developing highly available and scalable database applications. Let's dive in!
